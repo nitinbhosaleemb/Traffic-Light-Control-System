@@ -1,8 +1,8 @@
-# Traffic Control and Management System using  BMC 2835 Raspberry PI
+# Traffic Control and Management System using  BMC 2835 Raspberry PI and OpenCV
 
-**Using Vehicle Detection, Tracking and Counting and Controlling Traffic Light**
+**Using Vehicle Detection, Tracking and Counting by OpenCV and Controlling Traffic Light**
 
-This project focuses on detecting, tracking and counting vehicles by using "[Blob Detection](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)" method. The unique ID is assigned to the each vehicle so it can not be counted more than once. This project was developed by OpenCV library. This vehicle count is taken as input to the Traffic Control System, which runs a algorithm to make traffic flow ease by increasing GREEN signal time.
+This project focuses on detecting, tracking and counting vehicles by using "[Blob Detection](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)" method under OpenCV library. The unique ID is assigned to the each vehicle so it can not be counted more than once. This project was developed by OpenCV library. This vehicle count is taken as input to the Traffic Control System, which runs a algorithm to make traffic flow ease by increasing GREEN signal time.
 
 
 ## Theory
